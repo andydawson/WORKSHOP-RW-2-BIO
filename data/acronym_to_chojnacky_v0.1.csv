@@ -1,0 +1,73 @@
+acronym,common name,chojnacky class,beta0,beta1
+ABBA,balsam fir,Abies < 0.35 spg,-2.3123,2.3482
+ABFR,fraser fir,Abies < 0.35 spg,-2.3123,2.3482
+ABCO,white fir ,Abies >= 0.35 spg,-3.1774,2.6426
+ACPE,striped maple,Aceraceae < 0.50 spg,-2.047,2.3852
+ACRU,red maple,Aceraceae < 0.50 spg,-2.047,2.3852
+ACSA2,silver maple,Aceraceae < 0.50 spg,-2.047,2.3852
+ACSP2,mountain maple,Aceraceae < 0.50 spg,-2.047,2.3852
+ACSA,sugar maple,Aceraceae >= 0.50 spg,-1.8011,2.3852
+HAVI,,average of all hardwoods,-2.2424,2.4498
+BELE,sweet birch,Betulaceae >= 0.60 spg,-2.2652,2.5349
+OSVI,eastern hophornbeam,Betulaceae >= 0.60 spg,-2.2652,2.5349
+BEPA,paper birch,Betulaceae 0.40-0.49 spg,-2.2271,2.4513
+BEPO,gray birch,Betulaceae 0.40-0.49 spg,-2.2271,2.4513
+BEAL,yellow birch,Betulaceae 0.50-0.59 spg,-1.8096,2.348
+PRSE,black cherry,Cornaceae/Ericaceae/Lauraceae/Platanaceae/Rosaceae/Ulmaceae,-2.2118,2.4133
+NYAQ2,water tupelo,Cornaceae/Ericaceae/Lauraceae/Platanaceae/Rosaceae/Ulmaceae,-2.2118,2.4133
+NYSY,blackgum tupelo ,Cornaceae/Ericaceae/Lauraceae/Platanaceae/Rosaceae/Ulmaceae,-2.2118,2.4133
+OXAR,sourwood,Cornaceae/Ericaceae/Lauraceae/Platanaceae/Rosaceae/Ulmaceae,-2.2118,2.4133
+SAAL5,sassafras,Cornaceae/Ericaceae/Lauraceae/Platanaceae/Rosaceae/Ulmaceae,-2.2118,2.4133
+PLOC,sycamore,Cornaceae/Ericaceae/Lauraceae/Platanaceae/Rosaceae/Ulmaceae,-2.2118,2.4133
+PRPE2,pin cherry,Cornaceae/Ericaceae/Lauraceae/Platanaceae/Rosaceae/Ulmaceae,-2.2118,2.4133
+PRVI,Chokecherry cherry,Cornaceae/Ericaceae/Lauraceae/Platanaceae/Rosaceae/Ulmaceae,-2.2118,2.4133
+ULAM,elm,Cornaceae/Ericaceae/Lauraceae/Platanaceae/Rosaceae/Ulmaceae,-2.2118,2.4133
+THOC,northern white-cedar,Cupressaceae < 0.30 spg,-1.9615,2.1063
+JUVI,eastern redcedar juniper,Cupressaceae >= 0.40 spg,-2.6327,2.4757
+CAIL2,pecan,"Fabaceae/Juglandaceae, Carya",-2.5095,2.6175
+CAOV2,shagbark hickory ,"Fabaceae/Juglandaceae, Carya",-2.5095,2.6175
+ROPS,black locust,"Fabaceae/Juglandaceae, other",-2.5095,2.5437
+CADE,american chestnut,Fagaceae; deciduous,-2.0705,2.441
+FAGR,american beech,Fagaceae; deciduous,-2.0705,2.441
+QUAL,white oak,Fagaceae; deciduous,-2.0705,2.441
+QUMA,burr oak,Fagaceae; deciduous,-2.0705,2.441
+QUMO,chestnut oak,Fagaceae; deciduous,-2.0705,2.441
+QURU,northern red oak ,Fagaceae; deciduous,-2.0705,2.441
+QUVE,black oak,Fagaceae; deciduous,-2.0705,2.441
+QUCO2,scarlet oak,Fagaceae; deciduous,-2.0705,2.441
+QUPA2,pin oak,Fagaceae; deciduous,-2.0705,2.441
+QUFA,red southern oak,Fagaceae; deciduous,-2.0705,2.441
+QUNI,water oak,Fagaceae; deciduous,-2.0705,2.441
+QUST,post oak,Fagaceae; deciduous,-2.0705,2.441
+QUMU,golden chinkapin,Fagaceae; evergreen,-2.2198,2.441
+QULA3,laurel oak ,Fagaceae; evergreen,-2.2198,2.441
+LIST2,sweetgum,Hamamelidaceae,-2.639,2.5466
+TIAM,american basswood,Hippocastanaceae/Tiliaceae,-2.4108,2.4177
+AEFL,yellow buckeye,Hippocastanaceae/Tiliaceae,-2.4108,2.4177
+TIAMH,white basswood,Hippocastanaceae/Tiliaceae,-2.4108,2.4177
+LALA,tamarack,Larix,-2.3012,2.3853
+LITU,tulip poplar,Magnoliaceae,-2.5497,2.5011
+MAFR,Fraser magnolia,Magnoliaceae,-2.5497,2.5011
+MAVI2,sweetbay magnolia,Magnoliaceae,-2.5497,2.5011
+FRNI,black ash,Oleaceae < 0.55 spg,-2.0314,2.3524
+FRPE,green ash,Oleaceae < 0.55 spg,-2.0314,2.3524
+FRAM,white ash,Oleaceae >= 0.55 spg,-1.8384,2.3524
+PCRU,red spruce,Picea >= 0.35 spg,-2.1364,2.3233
+PIAB,Norway spruce,Picea >= 0.35 spg,-2.1364,2.3233
+PIGL,white spruce,Picea >= 0.35 spg,-2.1364,2.3233
+PIMA,black spruce,Picea >= 0.35 spg,-2.1364,2.3233
+PIRE,red pine,Pinus < 0.45 spg,-2.6177,2.4638
+PIST,eastern white pine,Pinus < 0.45 spg,-2.6177,2.4638
+PIBA2,jack pine,Pinus < 0.45 spg,-2.6177,2.4638
+PICO,lodgepole pine,Pinus < 0.45 spg,-2.6177,2.4638
+PIPO,ponderosa pine,Pinus < 0.45 spg,-2.6177,2.4638
+PIEC2,shortleaf pine,Pinus >= 0.45 spg,-3.0506,2.6465
+PIRI,pitch pine,Pinus >= 0.45 spg,-3.0506,2.6465
+PITA,loblolly pine,Pinus >= 0.45 spg,-3.0506,2.6465
+PSME,douglas-fir,Pseudotsuga,-2.4623,2.4852
+POBA2,balsam poplar,Salicaceae < 0.35 spg,-2.6863,2.4561
+POGR,bigtooth aspen,Salicaceae >= 0.35 spg,-2.4441,2.4561
+PODE3,eastern cottonwood,Salicaceae >= 0.35 spg,-2.4441,2.4561
+POTR5,quaking aspen,Salicaceae >= 0.35 spg,-2.4441,2.4561
+SAAL2,white willow,Salicaceae >= 0.35 spg,-2.4441,2.4561
+TSCA,eastern hemlock,Tsuga < 0.40 spg,-2.348,2.3876
